@@ -120,7 +120,7 @@ body {
 
 .header {
   color: #ffffff;
-  background: url("/img/header_bg.png") no-repeat center;
+  background: url("../img/header_bg.png") no-repeat center;
   background-size: cover;
   height: 55vw;
   padding-bottom: 50px;
@@ -289,7 +289,7 @@ body {
   width: 50%; }
 
 .about__column:first-child {
-  background: url("/img/about_bg.png") no-repeat center;
+  background: url("../img/about_bg.png") no-repeat center;
   background-size: cover; }
 
 .about__column:last-child {
